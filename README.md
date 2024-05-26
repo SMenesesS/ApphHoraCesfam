@@ -1,4 +1,4 @@
-# simple-crud-django
+# App gestión hora
 Simple CRUD con django, utilizando vistas basadas en funciones y autentificacion 
 
 
